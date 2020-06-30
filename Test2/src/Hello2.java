@@ -5,6 +5,8 @@ public class Hello2 {
 		// TODO Auto-generated method stub
 System.out.print("second project");
 		System.out.print("after webhook");
+		System.out.print("checking build");
+		
 	}
 
 }
